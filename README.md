@@ -2,6 +2,8 @@
 
 A classic top-down space shooter game built with Pygame. Navigate your spaceship, avoid meteors, and blast them into space dust!
 
+[](https://github.com/user-attachments/assets/b065f419-db6b-4fc0-90a3-b7473e64c4bb)
+
 ## Quick Start
 
 1. Install requirements:
